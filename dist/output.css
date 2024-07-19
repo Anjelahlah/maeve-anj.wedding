@@ -747,8 +747,8 @@ video {
   background-color: rgb(17 24 39 / var(--tw-bg-opacity));
 }
 
-.bg-\[url\(\'https\:\/\/images\.pexels\.com\/photos\/364984\/pexels-photo-364984\.jpeg\?auto\=compress\&cs\=tinysrgb\&w\=1260\&h\=750\&dpr\=1\'\)\] {
-  background-image: url('https://images.pexels.com/photos/364984/pexels-photo-364984.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+.bg-\[url\(\'https\:\/\/images\.pexels\.com\/photos\/23629922\/pexels-photo-23629922\/free-photo-of-pink-flowers-on-rainbow-table\.jpeg\?auto\=compress\&cs\=tinysrgb\&w\=1260\&h\=750\&dpr\=2\'\)\] {
+  background-image: url('https://images.pexels.com/photos/23629922/pexels-photo-23629922/free-photo-of-pink-flowers-on-rainbow-table.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
 }
 
 .bg-gradient-to-r {
